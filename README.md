@@ -1,2 +1,2 @@
 # LodgeTravelSite
-A fully responsive Lodge travel website, using CSS grid and flexbox. 
+I designed and created a fully responsive landing page for a fictional LodgeStay travel website, using CSS grid and flexbox. I created the cards from scratch using CSS with hover effects, which display other available properties the user can browse through. It is a very clear easy to use page with a simple but eyecatching colour scheme, which would be easy to replicate in all future pages due to the CSS root property.  
